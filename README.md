@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Siddique-WD
 - 👀 I’m interested in ... coding ✨😁👍
-- 🌱 I’m currently learning ... full Stack Web Development 
-- 📫 How to reach me ... 
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning ... Full Stack Web Development 
+- 📫 How to reach me ... https://www.instagram.com/sidd_101_/ 
+- ⚡ Fun fact: ... 
 
 <!---
 Siddique-WD/Siddique-WD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
